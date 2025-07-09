@@ -1,5 +1,12 @@
 name: IOS-MCN-RAN Issue Template
-description: Issues cannot be submitted without selecting at least one mandatory label.
+description: Issues should be submitted by selecting at least one mandatory label.
+
+- type: markdown
+  attributes:
+    value: |
+      ## Title Guidelines
+      Please make sure your issue title is clear and at least **20 characters long**.
+      
 title: "\u200B"
 labels: []
 body:
