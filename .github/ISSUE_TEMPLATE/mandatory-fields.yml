@@ -6,8 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## Title Guidelines
-        Please make sure your issue title is clear and at least **20 characters long**.
+        Make sure issue title is clear and at least **20 characters long**.
   - type: markdown
     attributes:
       value: |
